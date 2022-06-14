@@ -20,6 +20,10 @@ Backend Development ✍️
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
+
+![Sathya GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true)
+
+
 [![Linkedin: Sathya Anand](https://img.shields.io/badge/-SathyaAnand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathya-anand-63b9751a9/)](https://www.linkedin.com/in/sathya-anand-63b9751a9/)
 
 **Languages and Tools:**  
@@ -48,6 +52,4 @@ Backend Development ✍️
 </a>
 <br/>
 <br/>
-
-![Sathya GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true)
 
