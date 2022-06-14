@@ -9,11 +9,8 @@
 - 🔭 I’m currently working in [Mastech Infotrellis](https://mastechinfotrellis.com/).
 - 🌱 I’m currently learning more about Full Stack Development.
 - 💻 Things I love to work on
-
-Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-Backend Development ✍️
-
+      Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+      Backend Development ✍️
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @SathyaAnand](https://www.linkedin.com/in/sathya-anand-63b9751a9/)
@@ -22,9 +19,6 @@ Backend Development ✍️
 
 
 ![Sathya GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true)
-
-
-[![Linkedin: Sathya Anand](https://img.shields.io/badge/-SathyaAnand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathya-anand-63b9751a9/)](https://www.linkedin.com/in/sathya-anand-63b9751a9/)
 
 **Languages and Tools:**  
 
