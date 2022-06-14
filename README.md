@@ -35,7 +35,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Thanks for viewing my repositories ❤️ Show some love!
 
 </div>
 
