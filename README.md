@@ -1,4 +1,4 @@
-## Hola, I'm [Sathya Anand!](github.com/Saan-king) 👋
+## Hello, I'm [Sathya Anand!](github.com/Saan-king) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="Saan-king" /> </p>
 
