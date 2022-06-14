@@ -1,7 +1,5 @@
 ## Hello, I'm [Sathya Anand!](github.com/Saan-king) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="Saan-king" /> </p>
-
 
 <a href="https://www.linkedin.com/in/sathya-anand-63b9751a9/">
   <img align="left" alt="Sathya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -28,6 +26,8 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+
 
 
 <div align="center">
