@@ -4,14 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Saan-king&color=brightgreen)
 [![Gmail Badge](https://img.shields.io/badge/-msathyaanand@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msathyaanand@gmail.com)](mailto:msathyaanand@gmail.com) 
-<a href="https://www.linkedin.com/in/sathya-anand-63b9751a9/">
-  <img align="left" alt="Sathya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Saan-king">
-  <img align="left" alt="Sathya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br/>
-<br/>
 
 
 - 🔭 I’m currently working in [Mastech Infotrellis](https://mastechinfotrellis.com/).
@@ -47,6 +39,15 @@ Backend Development ✍️
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<a href="https://www.linkedin.com/in/sathya-anand-63b9751a9/">
+  <img align="left" alt="Sathya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Saan-king">
+  <img align="left" alt="Sathya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/>
+<br/>
 
 ![Sathya GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true)
 
