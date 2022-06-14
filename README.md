@@ -37,6 +37,7 @@
 
 ### Thanks for viewing my repositories ❤️ Show some love!
 
+<br>
 </div>
 
 <a href="https://www.linkedin.com/in/sathya-anand-63b9751a9/">
