@@ -1,4 +1,5 @@
 ## Hello, I'm [Sathya Anand!](github.com/Saan-king) 👋
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 ![](https://komarev.com/ghpvc/?username=Saan-king&color=brightgreen)
 
@@ -15,9 +16,10 @@
 
 - 🔭 I’m currently working in [Mastech Infotrellis](https://mastechinfotrellis.com/).
 - 🌱 I’m currently learning more about Full Stack Development.
-- 💻 Things I love
+- 💻 Things I love to work on
 
 Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 Backend Development ✍️
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
