@@ -24,12 +24,10 @@
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
 [![Linkedin: Sathya Anand](https://img.shields.io/badge/-SathyaAnand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathya-anand-63b9751a9/)](https://www.linkedin.com/in/sathya-anand-63b9751a9/)
-[![GitHub Sathya Anand](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Saan-king)
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
 <div align="center">
