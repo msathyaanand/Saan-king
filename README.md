@@ -17,8 +17,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-
-![Sathya GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    </a>
 
 **Languages and Tools:**  
 
