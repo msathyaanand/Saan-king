@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working in [Mastech Infotrellis](https://mastechinfotrellis.com/).
 - 🌱 I’m currently learning more about Full Stack Development.
-- 👯 I’m looking to collaborate on Youtube.
+- 👯 I’m a 2021 Batch Information Technology Graduate from PSG College Of Technology with 8.35 CGPA.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @SathyaAnand](https://www.linkedin.com/in/sathya-anand-63b9751a9/)
