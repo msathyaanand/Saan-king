@@ -1,5 +1,6 @@
 ## Hello, I'm [Sathya Anand!](github.com/Saan-king) 👋
 
+![](https://komarev.com/ghpvc/?username=Saan-king&color=blue)
 
 <a href="https://www.linkedin.com/in/sathya-anand-63b9751a9/">
   <img align="left" alt="Sathya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
