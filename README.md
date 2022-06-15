@@ -32,8 +32,22 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
-[![Sathya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Saan-king&theme=xcode)](https://git.io/Saan-king)
-<div align="center">
+
+<!-- <a href="https://github.com/komal7209/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal7209&show_icons=true&theme=radical" />
+</a> -->
+
+
+  [![Sathya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Saan-king&theme=xcode)](https://git.io/Saan-king) 
+  
+   ![Sathya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Saan-king&theme=prussian&show_icons=true&count_private=true)
+   <br />
+   <br />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   <br />
+   <br />
+<!--    ![Skyline](https://github.com/ShreyaPrasad1209/ShreyaPrasad1209/blob/master/github-metrics.svg) -->
+
 
 ### Thanks for viewing my repositories ❤️!
 
