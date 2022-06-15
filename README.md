@@ -33,12 +33,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
 
-<!-- <a href="https://github.com/komal7209/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal7209&show_icons=true&theme=radical" />
+<!-- <a href="https://github.com/Saan-king/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true&theme=radical" />
 </a> -->
 <div>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saan-king)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=great-gatsby)](https://git.io/streak-stats)
    </div>
       <br />
    <br />
