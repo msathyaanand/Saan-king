@@ -38,11 +38,11 @@
 </a> -->
 <div>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=great-gatsby)](https://git.io/streak-stats)
+  
    </div>
       <br />
    <br />
-   
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=great-gatsby)](https://git.io/streak-stats)
 <!--    ![Skyline](https://github.com/ShreyaPrasad1209/ShreyaPrasad1209/blob/master/github-metrics.svg) -->
 
 
