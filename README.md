@@ -36,10 +36,8 @@
 <!-- <a href="https://github.com/Saan-king/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true&theme=radical" />
 </a> -->
-<div>
-<img align="right" width=420 height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=great-gatsby"/>
-     </div>
-      <br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saan-king)](https://git.io/streak-stats)
    <br />
    
 <!--    ![Skyline](https://github.com/ShreyaPrasad1209/ShreyaPrasad1209/blob/master/github-metrics.svg) -->
