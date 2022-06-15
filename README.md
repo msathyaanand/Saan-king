@@ -38,7 +38,7 @@
 </a> -->
 <div>
 
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=black&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saan-king)](https://git.io/streak-stats)
    </div>
       <br />
    <br />
