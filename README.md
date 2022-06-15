@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true&theme=radical" />
 </a> -->
 <div>
-[![GitHub Streak]<img align="right" width=420 height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=great-gatsby"/>](https://git.io/streak-stats)
+[![GitHub Streak]<img align="right" width=420 height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=great-gatsby"/>]
      </div>
       <br />
    <br />
