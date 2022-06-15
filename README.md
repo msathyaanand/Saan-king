@@ -37,12 +37,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal7209&show_icons=true&theme=radical" />
 </a> -->
 
-
-  [![Sathya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Saan-king&theme=xcode)](https://git.io/Saan-king) 
-  
-   ![Sathya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Saan-king&theme=prussian&show_icons=true&count_private=true)
-   <br />
-   <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
