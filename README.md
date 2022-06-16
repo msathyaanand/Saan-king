@@ -37,10 +37,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saan-king&show_icons=true&theme=radical" />
 </a> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saan-king)](https://git.io/streak-stats)
-   <br />
-   
-<!--    ![Skyline](https://github.com/ShreyaPrasad1209/ShreyaPrasad1209/blob/master/github-metrics.svg) -->
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/Saan-king/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/Saan-king/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saan-king's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saan-king&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 
 ### Thanks for viewing my repositories ❤️!
