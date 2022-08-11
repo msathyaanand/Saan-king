@@ -2,6 +2,8 @@
 
 ## Hello, I'm [Sathya Anand!](github.com/Saan-king) 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=Saan-king&color=brightgreen)
 [![Gmail Badge](https://img.shields.io/badge/-msathyaanand@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msathyaanand@gmail.com)](mailto:msathyaanand@gmail.com) 
 
