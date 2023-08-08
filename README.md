@@ -23,7 +23,7 @@
     </a> 
 
 
-## 🛠️ My favorite tools
+## 🛠️ My favorite tools 
 
 ### 👨‍💻 Programming languages and tools
 
@@ -57,8 +57,7 @@
  
 <br>
 📊 <b>This Week I Spent My Time On</b>
-
-     
+  
 </div>
 
 <a href="https://www.linkedin.com/in/sathyaanand10">
