@@ -13,7 +13,7 @@
       Backend Development ✍️
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @SathyaAnand](https://www.linkedin.com/in/sathyaanand10/)
+- 📫 How to reach me: [Linkedin - @SathyaAnand](https://www.linkedin.com/in/msathyaanand/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
