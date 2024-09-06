@@ -59,7 +59,7 @@
   
 </div>
 
-<a href="https://www.linkedin.com/in/sathyaanand10">
+<a href="https://www.linkedin.com/in/msathyaanand">
   <img align="left" alt="Sathya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/msathyaanand">
