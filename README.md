@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-msathyaanand@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msathyaanand@gmail.com)](mailto:msathyaanand@gmail.com) 
 
 
-- 🔭 I’m currently working in [Mastech Infotrellis](https://mastechinfotrellis.com/).
+- 🔭 I’m currently working as MDM Specialist in [Mastech Infotrellis](https://mastechinfotrellis.com/).
 - 🌱 I’m currently learning more about Full Stack Development.
 - 💻 Things I love to work on
       Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
