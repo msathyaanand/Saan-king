@@ -11,7 +11,6 @@
 - 💻 Things I love to work on
       Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
       Backend Development ✍️
-- 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @SathyaAnand](https://www.linkedin.com/in/msathyaanand/)
 - 😄 Pronouns: He/His
