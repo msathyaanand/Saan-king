@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working as MDM Specialist in [Mastech Infotrellis](https://mastechinfotrellis.com/).
-- 🌱 I’m currently learning more about Full Stack Development.
+- 🌱 I’m currently learning more about Google Data Analytics.
 - 💻 Things I love to work on
       Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
       Backend Development ✍️
